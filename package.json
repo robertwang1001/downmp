@@ -54,7 +54,7 @@
     "@commitlint/config-conventional": "^19.8.1",
     "@tsconfig/node18": "^18.2.7",
     "@types/configstore": "^6.0.2",
-    "@types/jsdom": "^21.1.7",
+    "@types/jsdom": "^30.0.0",
     "@types/node": "^18.19.130",
     "@vitest/coverage-istanbul": "^2.1.9",
     "eslint": "^9.39.5",
